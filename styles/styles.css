@@ -1,0 +1,20 @@
+body{
+    background-color: #dae4ee;
+}
+
+
+.intro{
+color: whitesmoke;
+padding: 10% 20% ;
+text-align: justify;
+font-weight: 200;
+}
+.home{
+    height:100 vh;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2),url('../imgs/abc.jpg'));
+    background-size: cover;
+}
+
+#name{
+    font-size: 100px ;
+}
